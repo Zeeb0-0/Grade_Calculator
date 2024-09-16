@@ -12,3 +12,4 @@ Requirements:
 3. Go to your terminal and type ```flask run```.
 4. Open the web browser and navigate to ```http://127.0.0.1:5000/``` to run the program.
 
+If you encounter any problems, check the individual files posted in the repository as I may have updated it and haven't transferred them into compressed files yet. If your problems persist, then feel free to reach out.
