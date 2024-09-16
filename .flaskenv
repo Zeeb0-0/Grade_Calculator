@@ -1,1 +1,2 @@
 FLASK_APP=Grade_Calculator.py
+FLASK_ENV=development
